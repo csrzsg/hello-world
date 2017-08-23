@@ -1,2 +1,4 @@
 # hello-world
-this is the first repository created by my own to try this
+This is the first repository created by my own to try this
+Now I will add something into my first branch here.
+This is just a test.
